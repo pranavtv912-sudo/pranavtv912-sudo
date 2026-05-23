@@ -27,8 +27,6 @@
 
 ## 🌱 Currently Learning
 - Full Stack Development
-- Node.js
-- MongoDB
 
 ---
 
